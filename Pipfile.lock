@@ -25,11 +25,11 @@
         },
         "aria2p": {
             "hashes": [
-                "sha256:68a1aac478b5b4a6a4f404d601766219b9a074e63a01ac084aeb48845ab5678f",
-                "sha256:826c2b237057b2e481fede4959f1397996e789f181d90dfca706f28f0ef5bbef"
+                "sha256:c3c0a87958dacc6b3ad194b5320811baf1e593ddaf83542320d439f6a82f865d",
+                "sha256:e5a86d0bc306835cd42ff12aa8970a979d4b629966d1d089edbad5992ca47060"
             ],
             "index": "pypi",
-            "version": "==0.11.1"
+            "version": "==0.11.2"
         },
         "certifi": {
             "hashes": [
